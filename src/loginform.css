@@ -1,0 +1,9 @@
+/* src/components/LoginForm.css */
+.login-form {
+    border: 2px solid black;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+  }
+  
